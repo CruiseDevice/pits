@@ -2,7 +2,7 @@
 
 PITS is an AI-powered tutoring system that creates customized learning experiences based on your uploaded materials. The system processes your documents, generates a structured course with slides and narration, and provides an interactive chatbot that answers questions about the material.
 
-![PITS Workflow](https://github.com/yourusername/pits/raw/main/images/pits_workflow.png)
+![PITS Workflow](./workflow.png)
 
 ## Features
 
