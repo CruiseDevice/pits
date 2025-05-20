@@ -4,3 +4,8 @@ __pycache__
 *.pyd
 *.pyw
 *.pyz
+
+cache
+index_storage
+ingestion_storage
+session_data
